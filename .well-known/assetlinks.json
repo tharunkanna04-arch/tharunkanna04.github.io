@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.tharunkanna04_arch.twa",
+        "sha256_cert_fingerprints": ["12:3A:8E:44:76:92:08:4C:2D:71:BF:72:7E:19:0D:A7:C0:14:12:AE:C6:0C:01:A2:EC:11:7F:26:AB:A5:44:26"]
+      }
+    }]
